@@ -1,0 +1,19 @@
+{
+  "name": "servidor_node",
+  "version": "1.0.0",
+  "description": "servidor,node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agnaldokorb/servidor_node.git"
+  },
+  "author": "Agnaldo korb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Agnaldokorb/servidor_node/issues"
+  },
+  "homepage": "https://github.com/Agnaldokorb/servidor_node#readme"
+}
